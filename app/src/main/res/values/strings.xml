@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnswerAndQuestion</string>
+    <string name="we_will_send_you_an">We Will send you an</string>
+    <string name="sendyou">we_will_send_you_an</string>
+</resources>
